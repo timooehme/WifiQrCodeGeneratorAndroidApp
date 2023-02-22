@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WifiQrCodeGenerator</string>
+    <string name="ssid_of_wifi">SSID of Wifi</string>
+    <string name="password_of_wifi">Password of Wifi</string>
+    <string name="wifi_qr_code_generator">Wifi QR Code Generator</string>
+    <string name="displayed_qr_code">displayed_qr_code</string>
+    <string name="generate_qr_code">Create</string>
+</resources>
